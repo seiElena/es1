@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none">
+  <mask id="mask0" maskUnits="userSpaceOnUse" x="0" y="0" width="320" height="320">
+    <path d="M320 3.05176e-05L-1.66893e-05 -2.5433e-05L-7.26399e-05 320L320 3.05176e-05Z" fill="#2CCAB9" />
+  </mask>
+  <g mask="url(#mask0)">
+    <line x1="163.089" y1="-223.293" x2="-193.293" y2="133.089" stroke="#AA151B" stroke-width="2" />
+    <!-- aquí seguirían todas las demás líneas con stroke="#AA151B" -->
+  </g>
+</svg>
